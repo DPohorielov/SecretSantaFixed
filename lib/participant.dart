@@ -1,9 +1,9 @@
+//TODO read from file
+
 enum Participant {
-  Vlada,
-  Olya,
-  Dima,
-  Katya,
-  Seregha,
-  Lesha,
-  Yana
+  Person1,
+  Person2,
+  Person3,
+  Person4,
+  ;
 }
